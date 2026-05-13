@@ -1,4 +1,4 @@
-# 
+# Aseprite for PC | Aseprite for Windows advanced Plugin: HDR-editing & automated-actions offers the most advanced Aseprite for PC | Aseprite for Windows plugin, with HDR-editing
 
 
 
